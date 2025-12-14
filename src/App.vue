@@ -14,7 +14,7 @@
         bg-[#0D47A1FF] hover:bg-[#2196F3FF]
         duration-200 p-5 py-2 rounded-full cursor-pointer
         active:bg-[#0B3C91FF]
-      " href="/download/logaritmus.apk">
+      " href="/logaritmus-web/download/logaritmus.apk">
         Descargar Logaritmus
       </a>
     </div>
